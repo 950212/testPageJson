@@ -1,0 +1,20 @@
+
+html {
+	font-style: 10px;
+}
+body{
+	font-size: medium;
+	background-color: lightskyblue;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	font-size: 50px;
+	text-align: center;
+}
+.heroes{
+	display: flex;
+	justify-content: space-around;
+}
